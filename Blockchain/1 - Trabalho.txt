@@ -1,0 +1,2 @@
+Os códigos foram testados utilizando o ambiente de desenvolvimento disponibilizado no site Replit, com o objetivo de garantir que todos os integrantes do grupo pudessem executar o código de maneira uniforme, independentemente do ambiente local. Dessa forma, o código foi validado para funcionar corretamente na plataforma indicada, facilitando a execução e o acompanhamento do progresso do projeto.
+https://replit.com/join/sighvrwsbx-tiagocarvalho25
